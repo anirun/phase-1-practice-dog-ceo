@@ -6,7 +6,6 @@ const breedUrl = "https://dog.ceo/api/breeds/list/all"
 let dogBreedUL = document.getElementById('dog-breeds')
 const breedDropdown = document.getElementById('breed-dropdown')
 const dogImgContainer = document.getElementById('dog-image-container')
-const breedDropdown = document.querySelector("#breed-dropdown")
 
 // allBreeds array declaration to make it easier to access
 let allBreeds = []
